@@ -1,4 +1,4 @@
-# Vinícius Crepschi:
+# 👋 Hi! I'm Vinícius Crepschi:
 🎓 Graduated in Computer Science at UFSCar in 2021<br>🏠  Living in Sorocaba, São Paulo<br>🎴  Playing Yugioh competitively<br>📖 Learning new tech everyday
 
 # 💻 Tech Stack:
